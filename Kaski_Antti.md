@@ -1,6 +1,9 @@
-# Webshop-project Python/Django harjoittelua.
+# Yksinkertainen second hand shop 
+* Marketplace tyylinen osto-myyntisivu. 
 
 * Linkki: https://github.com/AnttiKaski/Webshop-project
+
+# Tekniikat:
 
 * Kieli: Python
 * Taustajärjestelmä: Django
