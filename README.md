@@ -17,7 +17,7 @@ sitä mukaa, kun projektien kuvaukset ovat tehty.
 | Hiltunen Joonatan             | [-](Hiltunen_Joonatan.md) |
 | Jelekäinen Antti              | [Verkkokauppa satunnaisille tuotteille](Jelekäinen_Antti.md) |
 | Kaari Aaron                   | [-](Kaari_Aaron.md) |
-| Kaski Antti                   | [-](Kaski_Antti.md) |
+| Kaski Antti                   | [Yksinkertainen second hand shop ](Kaski_Antti.md) |
 | Kukkonen Miikka               | [Text to html](Kukkonen_Miikka.md) |
 | Laine Jari                    | [-](Laine_Jari.md) |
 | Leppälehto Eero               | [Valokuva galleria sivusto](Leppälehto_Eero.md) |
@@ -29,5 +29,5 @@ sitä mukaa, kun projektien kuvaukset ovat tehty.
 | Ruohonen Marcus               | [-](Ruohonen_Marcus.md) |
 | Saarela Lucas                 | [-](Saarela_Lucas.md) |
 | Tuominen Miro                 | [-](Tuominen_Miro.md) |
-| Tuovinen Janna                | [Verkkokauppaharjoittelu](Tuovinen_Janna.md) |
+| Tuovinen Janna                | [Verkkokauppaharjoitus](Tuovinen_Janna.md) |
 | Valenzuela Claudio            | [Yksinkertainen portfolio](Valenzuela_Claudio.md) |
