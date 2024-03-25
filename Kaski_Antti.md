@@ -2,6 +2,6 @@
 
 * Linkki: https://github.com/AnttiKaski/Webshop-project
 
-Kieli: Python
-Taustajärjestelmä: Django
-Käyttöliittymä: HTML/CSS
+* Kieli: Python
+* Taustajärjestelmä: Django
+* Käyttöliittymä: HTML/CSS
