@@ -26,8 +26,9 @@ sitä mukaa, kun projektien kuvaukset ovat tehty.
 | Monena Roo                    | [-](Monena_Roo.md) |
 | Paijo Joonatan                | [SporteContact](Paijo_Joonatan.md) |
 | Rantanen Maria                | [-](Rantanen_Maria.md) |
-| Ruohonen Marcus               | [-](Ruohonen_Marcus.md) |
+| Ruohonen Marcus               | [Todolist](Ruohonen_Marcus.md) |
 | Saarela Lucas                 | [-](Saarela_Lucas.md) |
+| Savolainen Nikki              | [Tourism INFO webpage](Savolainen_Nikki.md) |
 | Tuominen Miro                 | [-](Tuominen_Miro.md) |
 | Tuovinen Janna                | [Verkkokauppaharjoitus](Tuovinen_Janna.md) |
 | Valenzuela Claudio            | [Yksinkertainen portfolio](Valenzuela_Claudio.md) |
