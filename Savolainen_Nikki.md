@@ -1,8 +1,8 @@
-Tourism INFO webpage
+# Tourism INFO webpage
 info verkkosivu
-Osoite:
-Tekniikat
+# Osoite: https://github.com/Falco-N/MyPageProject/
+# Tekniikat
 Ohjelmointikieli: JavaScript -> Python
 Taustajärjestelmä: Django
-Muuta?
+# Muuta?
 vanhan sivun koodin muutos nykyiseen tasoon
