@@ -1,6 +1,6 @@
 # Tourism INFO webpage
 info verkkosivu
-# Osoite: https://github.com/Falco-N/MyPageProject/tree/main
+# Osoite: https://github.com/Falco-N/MyPageProject/
 # Tekniikat
 Ohjelmointikieli: JavaScript -> Python
 Taustajärjestelmä: Django
